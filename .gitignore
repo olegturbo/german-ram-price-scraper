@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and generated files
+data/
+filters/
+*.log
+completed.txt
+last_link.txt
+
+# Configuration and secrets
+.env
+config.py
+
+# IDE settings (VS Code, PyCharm)
+.vscode/
+.idea/
